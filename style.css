@@ -26,7 +26,7 @@ h1{
 
 button{
     padding: 14px 120px;
-    margin-top: 20px;
+    margin-top: 30px;
     background-color: #e99a07;
     font-size: 22px;
     font-weight: 600;
@@ -37,4 +37,15 @@ button{
 
 button:hover{
     background-color: #fc492a;
+}
+
+img{
+    width: 22%;
+    margin-right: 25px;
+}
+
+.video{
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
